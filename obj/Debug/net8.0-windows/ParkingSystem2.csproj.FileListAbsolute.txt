@@ -1,0 +1,70 @@
+C:\TEST\ParkingSystem2\bin\Debug\net8.0-windows\ParkingSystem2.exe
+C:\TEST\ParkingSystem2\bin\Debug\net8.0-windows\ParkingSystem2.deps.json
+C:\TEST\ParkingSystem2\bin\Debug\net8.0-windows\ParkingSystem2.runtimeconfig.json
+C:\TEST\ParkingSystem2\bin\Debug\net8.0-windows\ParkingSystem2.dll
+C:\TEST\ParkingSystem2\bin\Debug\net8.0-windows\ParkingSystem2.pdb
+C:\TEST\ParkingSystem2\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\TEST\ParkingSystem2\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\TEST\ParkingSystem2\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\TEST\ParkingSystem2\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\TEST\ParkingSystem2\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\TEST\ParkingSystem2\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\TEST\ParkingSystem2\obj\Debug\net8.0-windows\ParkingSystem2.csproj.AssemblyReference.cache
+C:\TEST\ParkingSystem2\obj\Debug\net8.0-windows\ParkingSystemGUI.AddCarForm.resources
+C:\TEST\ParkingSystem2\obj\Debug\net8.0-windows\ParkingSystem2.Dashboard.resources
+C:\TEST\ParkingSystem2\obj\Debug\net8.0-windows\ParkingSystemGUI.LoginForm.resources
+C:\TEST\ParkingSystem2\obj\Debug\net8.0-windows\ParkingSystem2.ParkInDetail.resources
+C:\TEST\ParkingSystem2\obj\Debug\net8.0-windows\ParkingSystem2.Properties.Resources.resources
+C:\TEST\ParkingSystem2\obj\Debug\net8.0-windows\ParkingSystem2.Receipt.resources
+C:\TEST\ParkingSystem2\obj\Debug\net8.0-windows\ParkingSystemGUI.RegisterForm.resources
+C:\TEST\ParkingSystem2\obj\Debug\net8.0-windows\ParkingSystem2.Home.resources
+C:\TEST\ParkingSystem2\obj\Debug\net8.0-windows\ParkingSystem2.csproj.GenerateResource.cache
+C:\TEST\ParkingSystem2\obj\Debug\net8.0-windows\ParkingSystem2.GeneratedMSBuildEditorConfig.editorconfig
+C:\TEST\ParkingSystem2\obj\Debug\net8.0-windows\ParkingSystem2.AssemblyInfoInputs.cache
+C:\TEST\ParkingSystem2\obj\Debug\net8.0-windows\ParkingSystem2.AssemblyInfo.cs
+C:\TEST\ParkingSystem2\obj\Debug\net8.0-windows\ParkingSystem2.csproj.CoreCompileInputs.cache
+C:\TEST\ParkingSystem2\obj\Debug\net8.0-windows\ParkingS.A1994DE0.Up2Date
+C:\TEST\ParkingSystem2\obj\Debug\net8.0-windows\ParkingSystem2.dll
+C:\TEST\ParkingSystem2\obj\Debug\net8.0-windows\refint\ParkingSystem2.dll
+C:\TEST\ParkingSystem2\obj\Debug\net8.0-windows\ParkingSystem2.pdb
+C:\TEST\ParkingSystem2\obj\Debug\net8.0-windows\ParkingSystem2.genruntimeconfig.cache
+C:\TEST\ParkingSystem2\obj\Debug\net8.0-windows\ref\ParkingSystem2.dll
+C:\TEST\ParkingSystem2\obj\Debug\net8.0-windows\ParkingSystem2.Matrix.resources
+C:\TEST\ParkingSystem2\obj\Debug\net8.0-windows\ParkingSystem2.sourcelink.json
+C:\TEST\ParkingSystem2\obj\Debug\net8.0-windows\ParkingSystem2.transactionHistory.resources
+C:\TEST\ParkingSystem2\obj\Debug\net8.0-windows\ParkingSystem2.usercontrols.userLogs.resources
+C:\Users\Edrian Nathaniel\source\repos\ParkingSystemDb\bin\Debug\net8.0-windows\ParkingSystem2.exe
+C:\Users\Edrian Nathaniel\source\repos\ParkingSystemDb\bin\Debug\net8.0-windows\ParkingSystem2.deps.json
+C:\Users\Edrian Nathaniel\source\repos\ParkingSystemDb\bin\Debug\net8.0-windows\ParkingSystem2.runtimeconfig.json
+C:\Users\Edrian Nathaniel\source\repos\ParkingSystemDb\bin\Debug\net8.0-windows\ParkingSystem2.dll
+C:\Users\Edrian Nathaniel\source\repos\ParkingSystemDb\bin\Debug\net8.0-windows\ParkingSystem2.pdb
+C:\Users\Edrian Nathaniel\source\repos\ParkingSystemDb\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\Edrian Nathaniel\source\repos\ParkingSystemDb\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Edrian Nathaniel\source\repos\ParkingSystemDb\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Edrian Nathaniel\source\repos\ParkingSystemDb\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Edrian Nathaniel\source\repos\ParkingSystemDb\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Edrian Nathaniel\source\repos\ParkingSystemDb\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Edrian Nathaniel\source\repos\ParkingSystemDb\obj\Debug\net8.0-windows\ParkingSystem2.csproj.AssemblyReference.cache
+C:\Users\Edrian Nathaniel\source\repos\ParkingSystemDb\obj\Debug\net8.0-windows\ParkingSystemGUI.AddCarForm.resources
+C:\Users\Edrian Nathaniel\source\repos\ParkingSystemDb\obj\Debug\net8.0-windows\ParkingSystem2.Dashboard.resources
+C:\Users\Edrian Nathaniel\source\repos\ParkingSystemDb\obj\Debug\net8.0-windows\ParkingSystemGUI.LoginForm.resources
+C:\Users\Edrian Nathaniel\source\repos\ParkingSystemDb\obj\Debug\net8.0-windows\ParkingSystem2.Matrix.resources
+C:\Users\Edrian Nathaniel\source\repos\ParkingSystemDb\obj\Debug\net8.0-windows\ParkingSystem2.ParkInDetail.resources
+C:\Users\Edrian Nathaniel\source\repos\ParkingSystemDb\obj\Debug\net8.0-windows\ParkingSystem2.Properties.Resources.resources
+C:\Users\Edrian Nathaniel\source\repos\ParkingSystemDb\obj\Debug\net8.0-windows\ParkingSystem2.Receipt.resources
+C:\Users\Edrian Nathaniel\source\repos\ParkingSystemDb\obj\Debug\net8.0-windows\ParkingSystemGUI.RegisterForm.resources
+C:\Users\Edrian Nathaniel\source\repos\ParkingSystemDb\obj\Debug\net8.0-windows\ParkingSystem2.Home.resources
+C:\Users\Edrian Nathaniel\source\repos\ParkingSystemDb\obj\Debug\net8.0-windows\ParkingSystem2.transactionHistory.resources
+C:\Users\Edrian Nathaniel\source\repos\ParkingSystemDb\obj\Debug\net8.0-windows\ParkingSystem2.usercontrols.userLogs.resources
+C:\Users\Edrian Nathaniel\source\repos\ParkingSystemDb\obj\Debug\net8.0-windows\ParkingSystem2.csproj.GenerateResource.cache
+C:\Users\Edrian Nathaniel\source\repos\ParkingSystemDb\obj\Debug\net8.0-windows\ParkingSystem2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edrian Nathaniel\source\repos\ParkingSystemDb\obj\Debug\net8.0-windows\ParkingSystem2.AssemblyInfoInputs.cache
+C:\Users\Edrian Nathaniel\source\repos\ParkingSystemDb\obj\Debug\net8.0-windows\ParkingSystem2.AssemblyInfo.cs
+C:\Users\Edrian Nathaniel\source\repos\ParkingSystemDb\obj\Debug\net8.0-windows\ParkingSystem2.csproj.CoreCompileInputs.cache
+C:\Users\Edrian Nathaniel\source\repos\ParkingSystemDb\obj\Debug\net8.0-windows\ParkingSystem2.sourcelink.json
+C:\Users\Edrian Nathaniel\source\repos\ParkingSystemDb\obj\Debug\net8.0-windows\ParkingS.A1994DE0.Up2Date
+C:\Users\Edrian Nathaniel\source\repos\ParkingSystemDb\obj\Debug\net8.0-windows\ParkingSystem2.dll
+C:\Users\Edrian Nathaniel\source\repos\ParkingSystemDb\obj\Debug\net8.0-windows\refint\ParkingSystem2.dll
+C:\Users\Edrian Nathaniel\source\repos\ParkingSystemDb\obj\Debug\net8.0-windows\ParkingSystem2.pdb
+C:\Users\Edrian Nathaniel\source\repos\ParkingSystemDb\obj\Debug\net8.0-windows\ParkingSystem2.genruntimeconfig.cache
+C:\Users\Edrian Nathaniel\source\repos\ParkingSystemDb\obj\Debug\net8.0-windows\ref\ParkingSystem2.dll
